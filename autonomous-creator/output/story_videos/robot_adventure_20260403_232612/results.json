@@ -1,0 +1,32 @@
+{
+  "story": "robot_adventure",
+  "title": "로봇의 모험",
+  "output_dir": "D:\\AI-Video\\autonomous-creator\\output\\story_videos\\robot_adventure_20260403_232612",
+  "character_sheet": "D:\\AI-Video\\autonomous-creator\\output\\story_videos\\robot_adventure_20260403_232612\\images\\character_sheet.png",
+  "scenes": [
+    {
+      "name": "morning_start",
+      "image": "D:\\AI-Video\\autonomous-creator\\output\\story_videos\\robot_adventure_20260403_232612\\images\\scene_morning_start.png",
+      "video": null,
+      "error": "403 Client Error. (Request ID: Root=1-69cfcf38-0d162ced5ce22ef87e10ed28;d127315c-e3b3-4a4f-a3a2-4b2de8fd2644)\n\nCannot access gated repo for url https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1/resolve/main/model_index.json.\nAccess to model stabilityai/stable-video-diffusion-img2vid-xt-1-1 is restricted and you are not in the authorized list. Visit https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1 to ask for access."
+    },
+    {
+      "name": "forest_discovery",
+      "image": "D:\\AI-Video\\autonomous-creator\\output\\story_videos\\robot_adventure_20260403_232612\\images\\scene_forest_discovery.png",
+      "video": null,
+      "error": "403 Client Error. (Request ID: Root=1-69cfcf39-4ded98545d27423d02942b3b;da58fc3d-5ae1-47f2-977e-e3aa51788201)\n\nCannot access gated repo for url https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1/resolve/main/model_index.json.\nAccess to model stabilityai/stable-video-diffusion-img2vid-xt-1-1 is restricted and you are not in the authorized list. Visit https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1 to ask for access."
+    },
+    {
+      "name": "rain_shelter",
+      "image": "D:\\AI-Video\\autonomous-creator\\output\\story_videos\\robot_adventure_20260403_232612\\images\\scene_rain_shelter.png",
+      "video": null,
+      "error": "403 Client Error. (Request ID: Root=1-69cfcf39-5c3b2697346c1ab3564b9042;b425afc5-5c39-48e2-8e99-9826e51595dd)\n\nCannot access gated repo for url https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1/resolve/main/model_index.json.\nAccess to model stabilityai/stable-video-diffusion-img2vid-xt-1-1 is restricted and you are not in the authorized list. Visit https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1 to ask for access."
+    },
+    {
+      "name": "sunset_return",
+      "image": "D:\\AI-Video\\autonomous-creator\\output\\story_videos\\robot_adventure_20260403_232612\\images\\scene_sunset_return.png",
+      "video": null,
+      "error": "403 Client Error. (Request ID: Root=1-69cfcf39-7578f3996924f90f1994363e;2d056ef5-1678-4bc3-8e89-2f262e84cba6)\n\nCannot access gated repo for url https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1/resolve/main/model_index.json.\nAccess to model stabilityai/stable-video-diffusion-img2vid-xt-1-1 is restricted and you are not in the authorized list. Visit https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1 to ask for access."
+    }
+  ]
+}

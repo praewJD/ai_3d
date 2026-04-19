@@ -1,0 +1,30 @@
+{
+  "id": "seoul_night",
+  "name": "Seoul Night",
+  "name_local": "서울의 밤",
+  "description": "Seoul cityscape at night, modern Korean city",
+  "elements": [
+    "Korean hangul neon signs",
+    "modern skyscrapers",
+    "street food pojangmacha tents",
+    "Korean taxis (orange, silver)",
+    "N Seoul Tower in distance",
+    "crosswalks with pedestrian lights",
+    "convenience stores (CU, GS25)",
+    "Korean pedestrians",
+    "subway stations",
+    "cafe storefronts"
+  ],
+  "lighting": "LED signs, street lamps, car lights, building lights",
+  "atmosphere": "modern urban, busy, organized, clean streets",
+  "colors": ["blue LED", "white", "red accents", "neon", "orange"],
+  "weather": ["clear", "cold", "light snow"],
+  "camera_angles": {
+    "wide": "wide shot of Gangnam intersection",
+    "street_level": "street level with neon signs",
+    "high_angle": "view from skyscraper",
+    "low_angle": "looking up at buildings"
+  },
+  "style_modifiers": ["cinematic", "Korean drama style", "modern"],
+  "negative": "chinese, japanese, thai, tropical, palm trees, tuk-tuks"
+}

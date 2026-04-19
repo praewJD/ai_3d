@@ -1,0 +1,28 @@
+{
+  "id": "street",
+  "name": "Urban Street",
+  "description": "Generic urban street scene",
+  "elements": [
+    "asphalt road",
+    "sidewalk",
+    "street lights",
+    "pedestrians",
+    "vehicles",
+    "shopfronts",
+    "traffic signs",
+    "crosswalk",
+    "trash cans",
+    "trees"
+  ],
+  "lighting": "street lights, shop lights, ambient city light",
+  "atmosphere": "busy, urban, everyday life",
+  "colors": ["warm yellow", "cool white", "asphalt gray"],
+  "camera_angles": {
+    "street_level": "eye level with pedestrians",
+    "high_angle": "looking down the street",
+    "low_angle": "looking up at buildings",
+    "wide": "wide establishing shot"
+  },
+  "style_modifiers": ["urban", "cinematic", "documentary"],
+  "negative": "rural, nature, countryside, indoor"
+}

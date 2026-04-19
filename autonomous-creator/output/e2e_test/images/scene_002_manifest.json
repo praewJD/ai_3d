@@ -1,0 +1,25 @@
+{
+    "scene_id": "scene_3",
+    "scene_number": 2,
+    "purpose": "build",
+    "action": "three people at outdoor cafe table, woman in cream sweater sitting between two men, laughing together, coffee cups on table, sunny afternoon, man in leather jacket on far side looking at cream-sweater woman intently",
+    "characters": [
+        "char_1",
+        "char_2",
+        "char_3"
+    ],
+    "location": "outdoor cafe terrace, sunny day",
+    "camera": "wide_shot",
+    "mood": "bright",
+    "emotion": "joy",
+    "duration": 4.0,
+    "dialogue": "하은: 내 절친 수진이 소개해준 자리, 오늘 너무 좋다.",
+    "narration": "",
+    "prompt_used": "MG_ip, pixar, three people outdoor cafe table, woman cream sweater sitting between two men, laughing together, coffee cups table, sunny afternoon, man leather jacket far side looking, beige trench coat, white turtleneck, dark slacks, short neat black hair, oversized cream knit sweater, plaid skirt, long wavy brown hair, gold earrings, black leather jacket, gray v-neck tee, Disney 3D style, no text, no letters, no watermark",
+    "negative_prompt": "butterflies, animals, creatures, extra objects, insects, birds, flying objects, multiple characters, crowd, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_002_scene_3.png",
+    "seed": 12345,
+    "steps": 20,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 480.0
+}

@@ -1,0 +1,24 @@
+{
+    "scene_id": "scene_2",
+    "scene_number": 1,
+    "purpose": "build",
+    "action": "man in beige trench coat and woman in cream knit sweater walking side by side in autumn park, her hand gently touching his arm, warm golden hour sunlight filtering through trees",
+    "characters": [
+        "char_1",
+        "char_2"
+    ],
+    "location": "autumn park with golden leaves",
+    "camera": "medium_shot",
+    "mood": "romantic",
+    "emotion": "hope",
+    "duration": 3.0,
+    "dialogue": "하은: 서준이, 우린... 뭐지? 서준: 네가 뭐가 되고 싶은데?",
+    "narration": "",
+    "prompt_used": "MG_ip, man beige trench coat and woman cream knit sweater walking side by side autumn park, her hand gently touching his arm, warm golden hour sunlight, , Disney 3D style, Pixar quality, soft lighting, medium shot, upper body, warm lighting, bright, optimistic, cinematic, ultra detailed, 4k, masterpiece, no text, no letters, no watermark",
+    "negative_prompt": "butterflies, animals, creatures, extra objects, insects, birds, flying objects, multiple characters, crowd, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_001_scene_2.png",
+    "seed": 12345,
+    "steps": 20,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 244.2
+}

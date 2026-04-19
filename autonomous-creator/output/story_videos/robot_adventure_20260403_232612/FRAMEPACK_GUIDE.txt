@@ -1,0 +1,36 @@
+
+# FramePack 비디오 변환 안내
+
+## 생성된 이미지 위치
+D:\AI-Video\autonomous-creator\output\story_videos\robot_adventure_20260403_232612
+
+## 이미지 목록
+1. D:\AI-Video\autonomous-creator\output\story_videos\robot_adventure_20260403_232612\images\scene_forest_discovery.png
+2. D:\AI-Video\autonomous-creator\output\story_videos\robot_adventure_20260403_232612\images\scene_morning_start.png
+3. D:\AI-Video\autonomous-creator\output\story_videos\robot_adventure_20260403_232612\images\scene_rain_shelter.png
+4. D:\AI-Video\autonomous-creator\output\story_videos\robot_adventure_20260403_232612\images\scene_sunset_return.png
+
+## FramePack 실행 방법
+
+1. FramePack WebUI 실행:
+   cd D:\AI-Video\FramePack\FramePack_Official\webui
+   D:\AI-Video\FramePack\FramePack_Official\system\python\python.exe demo_gradio.py
+
+2. 브라우저에서 Gradio UI 열기 (보통 http://localhost:7860)
+
+3. 각 이미지를 업로드하고 비디오 생성:
+   - Input Image: 위의 이미지 중 하나 선택
+   - Prompt: 비워두거나 간단한 모션 설명
+   - Total Second Length: 5 (5초 비디오)
+   - Steps: 25
+   - Seed: 31337
+
+4. 생성된 비디오는 D:\AI-Video\FramePack\FramePack_Official\webui\outputs에 저장됨
+
+## 권장 설정
+- Resolution: 640 (16:9)
+- Total Second Length: 5.0
+- Steps: 25
+- Guidance Scale (gs): 10.0
+- Use TeaCache: 체크
+- GPU Memory Preservation: 6.0 (6GB VRAM용)

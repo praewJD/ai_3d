@@ -1,0 +1,31 @@
+{
+  "id": "default_fantasy",
+  "name": "Fantasy Magical",
+  "description": "판타지 마법 같은 분위기",
+  "base_prompt": "3D anime style, magical atmosphere, glowing effects, ethereal lighting, fantasy world, Pixar quality, sparkles",
+  "negative_prompt": "realistic photo, modern, mundane, boring, low quality",
+  "style_type": "disney_3d",
+  "seed": -1,
+  "cfg_scale": 7.5,
+  "steps": 35,
+  "sampler": "dpmpp_2m",
+  "ip_adapter_ref": null,
+  "ip_adapter_scale": 0.8,
+  "lora_weights": null,
+  "lora_scale": 1.0,
+  "lighting_type": "dramatic",
+  "color_palette": "pastel",
+  "rendering_type": "cel_shaded",
+  "extra_params": {},
+  "is_default": false,
+  "created_at": "2026-04-05T16:23:38.042248",
+  "updated_at": "2026-04-05T16:23:38.059247",
+  "tags": [
+    "fantasy",
+    "magical",
+    "ethereal"
+  ],
+  "metadata": {},
+  "usage_count": 0,
+  "last_used_at": null
+}

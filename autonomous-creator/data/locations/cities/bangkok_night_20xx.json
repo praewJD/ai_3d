@@ -1,0 +1,30 @@
+{
+  "id": "bangkok_night_20xx",
+  "name": "Bangkok Night 20XX",
+  "name_local": "กรุงเทพฯ ปี 20xx",
+  "description": "Futuristic Bangkok at night, cyberpunk style",
+  "elements": [
+    "futuristic tuk-tuks with LED strips",
+    "holographic Thai advertisements",
+    "flying vehicles",
+    "neon-lit skyscrapers",
+    "BTS skytrain with light trails",
+    "cyberpunk street vendors",
+    "augmented reality signs",
+    "futuristic wat temples with neon",
+    "holographic billboards",
+    "rain-slicked streets"
+  ],
+  "lighting": "neon lights, holograms, LED strips, cyberpunk glow",
+  "atmosphere": "futuristic, cyberpunk, high-tech meets tradition, humid",
+  "colors": ["neon cyan", "magenta", "electric blue", "hot pink", "purple"],
+  "weather": ["clear", "rain", "lightning"],
+  "camera_angles": {
+    "wide": "wide shot of futuristic skyline",
+    "street_level": "street level with holograms",
+    "high_angle": "drone view of city",
+    "low_angle": "looking up at neon towers"
+  },
+  "style_modifiers": ["cyberpunk", "futuristic", "neon noir", "blade runner style"],
+  "negative": "chinese, hong kong, japanese, old fashioned, vintage, 20th century"
+}

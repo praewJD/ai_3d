@@ -1,0 +1,221 @@
+{
+  "title": "니가 훔친 그 사람",
+  "genre": "drama",
+  "target": "shorts",
+  "duration": 35.0,
+  "characters": [
+    {
+      "id": "char_1",
+      "name": "서준",
+      "appearance": "beige trench coat, white turtleneck, dark slacks, short neat black hair",
+      "traits": [
+        "trustworthy",
+        "observant"
+      ],
+      "seed": 0
+    },
+    {
+      "id": "char_2",
+      "name": "하은",
+      "appearance": "oversized cream knit sweater, plaid skirt, long wavy brown hair, gold earrings",
+      "traits": [
+        "sweet",
+        "secretive"
+      ],
+      "seed": 0
+    },
+    {
+      "id": "char_3",
+      "name": "민호",
+      "appearance": "black leather jacket, gray v-neck tee, silver chain necklace, swept-back dark hair",
+      "traits": [
+        "manipulative",
+        "confident"
+      ],
+      "seed": 0
+    }
+  ],
+  "arc": {
+    "hook": "서준이 무심코 본 하은의 핸드폰, 낯선 남자의 메시지",
+    "build": "서준과 하은의 달콤한 썸, 하은의 절친 수진의 존재",
+    "climax": "수진의 남친이었던 민호와 하은의 밀회 증거가 SNS에 올라옴",
+    "resolution": "세 사람의 엇갈린 진실, 서준의 선택"
+  },
+  "scenes": [
+    {
+      "id": "scene_1",
+      "purpose": "hook",
+      "camera": "extreme_closeup",
+      "mood": "tense",
+      "action": "man's hands trembling while holding white smartphone, screen glow illuminating his face in dark room, his jaw clenched, eyes wide with shock",
+      "characters": [
+        "char_1"
+      ],
+      "location": "dark apartment living room at night",
+      "dialogue": "",
+      "narration": "\"그날 이후로, 난 모든 걸 의심하기 시작했다.\"",
+      "duration": 3.0,
+      "emotion": "shock"
+    },
+    {
+      "id": "scene_2",
+      "purpose": "build",
+      "camera": "medium_shot",
+      "mood": "romantic",
+      "action": "man in beige trench coat and woman in cream knit sweater walking side by side in autumn park, her hand gently touching his arm, warm golden hour sunlight filtering through trees",
+      "characters": [
+        "char_1",
+        "char_2"
+      ],
+      "location": "autumn park with golden leaves",
+      "dialogue": "하은: 서준이, 우린... 뭐지? 서준: 네가 뭐가 되고 싶은데?",
+      "narration": "",
+      "duration": 3.0,
+      "emotion": "hope"
+    },
+    {
+      "id": "scene_3",
+      "purpose": "build",
+      "camera": "wide_shot",
+      "mood": "bright",
+      "action": "three people at outdoor cafe table, woman in cream sweater sitting between two men, laughing together, coffee cups on table, sunny afternoon, man in leather jacket on far side looking at cream-sweater woman intently",
+      "characters": [
+        "char_1",
+        "char_2",
+        "char_3"
+      ],
+      "location": "outdoor cafe terrace, sunny day",
+      "dialogue": "하은: 내 절친 수진이 소개해준 자리, 오늘 너무 좋다.",
+      "narration": "",
+      "duration": 4.0,
+      "emotion": "joy"
+    },
+    {
+      "id": "scene_4",
+      "purpose": "climax",
+      "camera": "close-up",
+      "mood": "dark",
+      "action": "man in beige trench coat staring at phone with pale face, cold blue light washing over his features, lips slightly parted, grip tightening on device, shadows across his face",
+      "characters": [
+        "char_1"
+      ],
+      "location": "dimly lit hallway at night",
+      "dialogue": "",
+      "narration": "\"수진 언니한테서 온 SNS 스토리... 하은이랑 민호 형이 단둘이?\"",
+      "duration": 4.0,
+      "emotion": "fear"
+    },
+    {
+      "id": "scene_5",
+      "purpose": "climax",
+      "camera": "over_shoulder",
+      "mood": "mysterious",
+      "action": "woman in cream sweater and man in leather jacket sitting close together at dim bar counter, her hand on his shoulder, intimate atmosphere, warm amber lighting, other man visible in background watching from distance with hurt expression",
+      "characters": [
+        "char_2",
+        "char_3"
+      ],
+      "location": "dim cocktail bar with warm lighting",
+      "dialogue": "민호: 수진이 몰라도 돼. 하은: 알아... 근데 난 네가 더 좋아.",
+      "narration": "",
+      "duration": 3.0,
+      "emotion": "disgust"
+    },
+    {
+      "id": "scene_6",
+      "purpose": "climax",
+      "camera": "medium_shot",
+      "mood": "tense",
+      "action": "man in beige trench coat confronting woman in cream sweater in apartment living room, he holds phone out toward her with trembling hand, she steps back with hand raised defensively, warm evening light through window casting long shadows",
+      "characters": [
+        "char_1",
+        "char_2"
+      ],
+      "location": "modern apartment living room at dusk",
+      "dialogue": "서준: 이게 뭐야?! 하은: 아니야! 그건 그냥 오해야!",
+      "narration": "",
+      "duration": 4.0,
+      "emotion": "anger"
+    },
+    {
+      "id": "scene_7",
+      "purpose": "climax",
+      "camera": "close-up",
+      "mood": "dark",
+      "action": "woman in cream sweater crouched on floor crying, man in leather jacket standing behind her with arms crossed and cold smirk, dramatic shadows splitting his face, tension in body language",
+      "characters": [
+        "char_2",
+        "char_3"
+      ],
+      "location": "empty parking garage with harsh fluorescent lighting",
+      "dialogue": "민호: 네가 먼저 유혹했잖아. 하은: 그건 네가 먼저였어!",
+      "narration": "",
+      "duration": 3.0,
+      "emotion": "sadness"
+    },
+    {
+      "id": "scene_8",
+      "purpose": "climax",
+      "camera": "high_angle",
+      "mood": "epic",
+      "action": "man in beige trench coat with stunned expression, phone clutched in both hands, dramatic overhead lighting casting shadows across his frozen figure, body rigid with shock and realization",
+      "characters": [
+        "char_1"
+      ],
+      "location": "dark room lit only by phone screen",
+      "dialogue": "",
+      "narration": "\"수진이의 복수. 우리 셋을 올가미에 몰아넣은 건... 하은이가 아니었다.\"",
+      "duration": 4.0,
+      "emotion": "surprise"
+    },
+    {
+      "id": "scene_9",
+      "purpose": "resolution",
+      "camera": "wide_shot",
+      "mood": "sad",
+      "action": "man in beige trench coat standing in autumn rain on empty park bench, wet fallen leaves scattered on ground, figure of woman in cream sweater visible in far distance walking away, cold blue-grey tones",
+      "characters": [
+        "char_1"
+      ],
+      "location": "rainy autumn park, same bench as earlier",
+      "dialogue": "",
+      "narration": "\"진실을 알면... 누구를 원망해야 할까?\"",
+      "duration": 4.0,
+      "emotion": "sadness"
+    },
+    {
+      "id": "scene_10",
+      "purpose": "resolution",
+      "camera": "extreme_closeup",
+      "mood": "mysterious",
+      "action": "man in beige trench coat holding phone to ear with determined expression, rain droplets on his face, streetlight casting orange glow, his lips pressed together firmly, eyes intense with resolve",
+      "characters": [
+        "char_1"
+      ],
+      "location": "rainy street at night, streetlight glow",
+      "dialogue": "서준: 수진 누나... 만나야 할 것 같아요.",
+      "narration": "",
+      "duration": 3.0,
+      "emotion": "tension"
+    }
+  ],
+  "emotion_curve": [
+    0.7,
+    0.6,
+    0.5,
+    0.8,
+    0.9,
+    0.85,
+    0.7,
+    0.9,
+    0.4,
+    0.5
+  ],
+  "metadata": {
+    "source": "short_drama_compiler",
+    "category": "",
+    "formula": {},
+    "caption": "",
+    "hook_score": {}
+  }
+}

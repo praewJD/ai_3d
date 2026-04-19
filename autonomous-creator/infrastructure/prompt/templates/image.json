@@ -1,0 +1,99 @@
+{
+  "system_prompt": "You are an expert prompt engineer for AI image generation. Convert scene descriptions into detailed, high-quality prompts for 3D anime style images. Focus on Pixar-quality 3D animation aesthetic with smooth cel shading.",
+
+  "base_template": "{style_prefix}, {subject}, {action}, {environment}, {lighting}, {mood}, {quality_tags}",
+
+  "style_prefixes": {
+    "anime_3d": "3D anime style, Pixar quality, smooth cel shading, beautiful lighting, clean renders, Disney animation quality",
+    "anime_3d_dramatic": "3D anime style, dramatic cinematic lighting, volumetric light, epic atmosphere, Pixar quality",
+    "anime_3d_soft": "3D anime style, soft studio lighting, gentle shadows, warm colors, Pixar quality",
+    "anime_3d_neon": "3D anime style, neon lights, cyberpunk atmosphere, glowing effects, Pixar quality",
+    "anime_3d_outdoor": "3D anime style, natural outdoor lighting, sun rays, beautiful sky, Pixar quality",
+    "anime_2d": "2D anime style, hand drawn aesthetic, vibrant colors, detailed illustration",
+    "realistic": "photorealistic, realistic photography, high detail, 8k",
+    "cartoon": "cartoon style, bold lines, vibrant colors, exaggerated features",
+    "watercolor": "watercolor painting, soft edges, artistic, traditional art"
+  },
+
+  "quality_tags": [
+    "masterpiece",
+    "best quality",
+    "4k",
+    "8k",
+    "highly detailed",
+    "professional 3D render",
+    "smooth shading",
+    "clean lines",
+    "perfect anatomy",
+    "beautiful composition"
+  ],
+
+  "3d_anime_specific_tags": [
+    "smooth skin texture",
+    "expressive eyes",
+    "detailed hair",
+    "soft ambient occlusion",
+    "subsurface scattering",
+    "volumetric lighting",
+    "depth of field",
+    "cinematic composition"
+  ],
+
+  "negative_prompt": {
+    "default": "blurry, low quality, distorted, deformed, ugly, bad anatomy, watermark, signature, text, logo, cropped",
+    "anime_3d": "realistic photo, live action, western cartoon, rough lines, low poly, ps2 graphics, ugly 3d, bad shading, plastic look",
+    "anime_2d": "3D, realistic, photo, cgi, western style",
+    "realistic": "anime, cartoon, illustration, drawing, sketch, 3D render"
+  },
+
+  "aspect_ratios": {
+    "vertical_9_16": {
+      "width": 576,
+      "height": 1024,
+      "tags": "vertical composition, portrait orientation, mobile optimized"
+    },
+    "horizontal_16_9": {
+      "width": 1024,
+      "height": 576,
+      "tags": "horizontal composition, landscape orientation, cinematic"
+    },
+    "square_1_1": {
+      "width": 768,
+      "height": 768,
+      "tags": "square composition, balanced frame"
+    }
+  },
+
+  "lighting_presets": {
+    "studio_soft": "soft studio lighting, gentle shadows, even illumination",
+    "studio_dramatic": "dramatic studio lighting, strong shadows, high contrast",
+    "golden_hour": "golden hour lighting, warm sunset glow, orange rim light",
+    "blue_hour": "blue hour lighting, cool twilight tones, soft shadows",
+    "neon": "neon lighting, colorful glow, cyberpunk atmosphere",
+    "backlight": "backlighting, rim light, silhouette edge glow",
+    "outdoor_natural": "natural outdoor lighting, sun rays, soft shadows"
+  },
+
+  "enhancement_rules": [
+    "Add 3D anime specific terms: smooth shading, expressive features",
+    "Include lighting details: volumetric, soft, dramatic, rim light",
+    "Specify render quality: Pixar quality, Disney animation",
+    "Add camera angle: cinematic, dynamic, low angle, bird's eye",
+    "Include color palette: vibrant, pastel, warm, cool tones",
+    "Add atmosphere: magical, peaceful, dramatic, mysterious"
+  ],
+
+  "character_enhancements": {
+    "face": "detailed expressive eyes, smooth skin, defined features",
+    "hair": "detailed flowing hair, individual strands visible, shiny",
+    "clothing": "detailed fabric texture, realistic folds, material definition",
+    "pose": "natural pose, dynamic stance, expressive body language"
+  },
+
+  "scene_enhancements": {
+    "indoor": "detailed interior, ambient occlusion, soft indoor lighting",
+    "outdoor": "detailed environment, atmospheric perspective, natural lighting",
+    "fantasy": "magical atmosphere, glowing effects, ethereal lighting",
+    "urban": "detailed architecture, city lights, modern environment"
+  }
+}

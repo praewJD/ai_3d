@@ -1,0 +1,25 @@
+{
+    "scene_id": "scene_3",
+    "scene_number": 2,
+    "purpose": "build",
+    "action": "three people at outdoor cafe table, woman in cream sweater sitting between two men, laughing together, coffee cups on table, sunny afternoon, man in leather jacket on far side looking at cream-sweater woman intently",
+    "characters": [
+        "char_1",
+        "char_2",
+        "char_3"
+    ],
+    "location": "outdoor cafe terrace, sunny day",
+    "camera": "wide_shot",
+    "mood": "bright",
+    "emotion": "joy",
+    "duration": 4.0,
+    "dialogue": "하은: 내 절친 수진이 소개해준 자리, 오늘 너무 좋다.",
+    "narration": "",
+    "prompt_used": "[Regional Cross-Attention] 3 chars: three people at outdoor cafe table, woman in cream sweater sitting between two men, laughing together, coffee cups on table, sunny afternoon, man in leather jacket on far side looking at cream-sweater woman intently",
+    "negative_prompt": "butterflies, insects, birds, flying objects, extra objects, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_002_scene_3.png",
+    "seed": 12345,
+    "steps": 25,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 290.6
+}

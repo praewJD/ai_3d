@@ -1,0 +1,17 @@
+{
+  "id": "evening",
+  "name": "Evening / Golden Hour",
+  "description": "Evening time with golden hour lighting",
+  "elements": [
+    "orange sky",
+    "long shadows",
+    "sunset visible",
+    "transition from day to night",
+    "warm colors"
+  ],
+  "lighting": "golden hour, warm sunlight, transitioning to artificial lights",
+  "atmosphere": "warm, nostalgic, peaceful, romantic",
+  "colors": ["orange", "gold", "pink", "purple", "deep blue"],
+  "style_modifiers": ["golden hour", "warm", "cinematic"],
+  "negative": "midnight, noon, harsh sunlight"
+}

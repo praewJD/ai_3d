@@ -1,0 +1,23 @@
+{
+    "scene_id": "scene_10",
+    "scene_number": 9,
+    "purpose": "resolution",
+    "action": "man in beige trench coat holding phone to ear with determined expression, rain droplets on his face, streetlight casting orange glow, his lips pressed together firmly, eyes intense with resolve",
+    "characters": [
+        "char_1"
+    ],
+    "location": "rainy street at night, streetlight glow",
+    "camera": "extreme_closeup",
+    "mood": "mysterious",
+    "emotion": "tension",
+    "duration": 3.0,
+    "dialogue": "서준: 수진 누나... 만나야 할 것 같아요.",
+    "narration": "",
+    "prompt_used": "MG_ip, man beige trench coat holding phone ear with determined expression, rain droplets his face, streetlight casting orange glow, his lips pressed together firmly, eyes intense, beige trench coat, white turtleneck, dark slacks, short neat black hair, Disney 3D style, Pixar quality, soft lighting, close-up shot, detailed face, dark atmosphere, sharp shadows, suspenseful, cinematic, ultra detailed, 4k, masterpiece, no text, no letters, no watermark",
+    "negative_prompt": "butterflies, animals, creatures, extra objects, insects, birds, flying objects, multiple characters, crowd, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_009_scene_10.png",
+    "seed": 12345,
+    "steps": 20,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 228.2
+}

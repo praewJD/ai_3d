@@ -1,0 +1,26 @@
+{
+  "id": "rooftop",
+  "name": "Building Rooftop",
+  "description": "Rooftop of a tall building with city view",
+  "elements": [
+    "concrete floor",
+    "antenna equipment",
+    "city skyline view in background",
+    "rooftop edge",
+    "water tanks",
+    "ventilation units",
+    "low safety railing",
+    "distant city lights"
+  ],
+  "lighting": "moonlight + distant city lights",
+  "atmosphere": "windy, isolated, dramatic, dangerous",
+  "colors": ["dark blue sky", "orange city lights", "silver moonlight"],
+  "camera_angles": {
+    "low_angle_up": "looking up at character against sky",
+    "high_angle_down": "looking down at city",
+    "profile": "side view with city background",
+    "wide_establishing": "wide shot of rooftop with city"
+  },
+  "style_modifiers": ["dramatic", "cinematic", "noir"],
+  "negative": "indoor, ground level, street, park"
+}

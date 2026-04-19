@@ -1,0 +1,23 @@
+{
+    "scene_id": "scene_1",
+    "scene_number": 0,
+    "purpose": "hook",
+    "action": "man's hands trembling while holding white smartphone, screen glow illuminating his face in dark room, his jaw clenched, eyes wide with shock",
+    "characters": [
+        "char_1"
+    ],
+    "location": "dark apartment living room at night",
+    "camera": "extreme_closeup",
+    "mood": "tense",
+    "emotion": "shock",
+    "duration": 3.0,
+    "dialogue": "",
+    "narration": "\"그날 이후로, 난 모든 걸 의심하기 시작했다.\"",
+    "prompt_used": "MG_ip, man's hands trembling while holding white smartphone, screen glow illuminating his face dark room, his jaw clenched, eyes wide with shock, dark apartment living room, beige trench coat, white turtleneck, dark slacks, short neat black hair, Disney 3D style, Pixar quality, soft lighting, close-up shot, detailed face, dramatic impact, high contrast, explosive, cinematic, ultra detailed, 4k, masterpiece, no text, no letters, no watermark",
+    "negative_prompt": "butterflies, insects, birds, flying objects, extra objects, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_000_scene_1.png",
+    "seed": 12345,
+    "steps": 25,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 265.7
+}

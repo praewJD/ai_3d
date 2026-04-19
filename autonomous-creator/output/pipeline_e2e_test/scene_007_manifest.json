@@ -1,0 +1,23 @@
+{
+    "scene_id": "scene_8",
+    "scene_number": 7,
+    "purpose": "climax",
+    "action": "man in beige trench coat with stunned expression, phone clutched in both hands, dramatic overhead lighting casting shadows across his frozen figure, body rigid with shock and realization",
+    "characters": [
+        "char_1"
+    ],
+    "location": "dark room lit only by phone screen",
+    "camera": "high_angle",
+    "mood": "epic",
+    "emotion": "surprise",
+    "duration": 4.0,
+    "dialogue": "",
+    "narration": "\"수진이의 복수. 우리 셋을 올가미에 몰아넣은 건... 하은이가 아니었다.\"",
+    "prompt_used": "MG_ip, man beige trench coat with stunned expression, phone clutched both hands, dramatic overhead lighting casting shadows across his frozen figure, body rigid with shock and, beige trench coat, white turtleneck, dark slacks, short neat black hair, Disney 3D style, Pixar quality, soft lighting, cinematic, ultra detailed, 4k, masterpiece, no text, no letters, no watermark",
+    "negative_prompt": "butterflies, insects, birds, flying objects, extra objects, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_007_scene_8.png",
+    "seed": 12345,
+    "steps": 25,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 250.3
+}

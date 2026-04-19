@@ -1,0 +1,42 @@
+{
+  "method": "Method 4: Mask-Based Prompt Conditioning",
+  "total_scenes": 5,
+  "success_count": 5,
+  "results": [
+    {
+      "scene_id": "scene_2",
+      "num_chars": 2,
+      "output_path": "D:\\AI-Video\\autonomous-creator\\output\\method4_masked\\scene_2_method4_2chars.png",
+      "time_seconds": 1023.3,
+      "status": "success"
+    },
+    {
+      "scene_id": "scene_3",
+      "num_chars": 3,
+      "output_path": "D:\\AI-Video\\autonomous-creator\\output\\method4_masked\\scene_3_method4_3chars.png",
+      "time_seconds": 661.6,
+      "status": "success"
+    },
+    {
+      "scene_id": "scene_5",
+      "num_chars": 2,
+      "output_path": "D:\\AI-Video\\autonomous-creator\\output\\method4_masked\\scene_5_method4_2chars.png",
+      "time_seconds": 460.3,
+      "status": "success"
+    },
+    {
+      "scene_id": "scene_6",
+      "num_chars": 2,
+      "output_path": "D:\\AI-Video\\autonomous-creator\\output\\method4_masked\\scene_6_method4_2chars.png",
+      "time_seconds": 452.4,
+      "status": "success"
+    },
+    {
+      "scene_id": "scene_7",
+      "num_chars": 2,
+      "output_path": "D:\\AI-Video\\autonomous-creator\\output\\method4_masked\\scene_7_method4_2chars.png",
+      "time_seconds": 442.3,
+      "status": "success"
+    }
+  ]
+}

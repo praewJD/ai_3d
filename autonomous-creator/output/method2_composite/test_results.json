@@ -1,0 +1,32 @@
+{
+  "method": "method2_composite",
+  "total_time": 2711.461455821991,
+  "success": 2,
+  "total": 2,
+  "results": [
+    {
+      "scene": "scene_2",
+      "success": true,
+      "path": "output\\method2_composite\\scene_2_composite.png",
+      "size_kb": 833.294921875,
+      "resolution": [
+        576,
+        1024
+      ],
+      "time": 1255.1620407104492,
+      "num_chars": 2
+    },
+    {
+      "scene": "scene_3",
+      "success": true,
+      "path": "output\\method2_composite\\scene_3_composite.png",
+      "size_kb": 822.07421875,
+      "resolution": [
+        576,
+        1024
+      ],
+      "time": 1456.2994151115417,
+      "num_chars": 3
+    }
+  ]
+}

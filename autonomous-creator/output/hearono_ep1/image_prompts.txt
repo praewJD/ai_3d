@@ -1,0 +1,27 @@
+=== scene_01_raven_enters ===
+male adult, average build,
+dark hair,
+wearing black armor, air tubes,
+no accessories,
+menacing look,
+, standing upright, confident posture, full body visible, menacing, dark, intimidating, cinematic, cinematic composition, film grain, anamorphic lens, 8k, professional photography, color graded, Building Rooftop, concrete floor, antenna equipment, city skyline view in background, rooftop edge, moonlight + distant city lights, windy, isolated, dramatic, dangerous, dark blue sky, orange city lights
+
+=== scene_02_hearono_reveals ===
+male young adult, average build,
+short dark hair,
+wearing hooded cloak, large headphones,
+no accessories,
+determined eyes,
+, standing upright, confident posture, full body visible, heroic, determined, noble, cinematic, cinematic composition, film grain, anamorphic lens, 8k, professional photography, color graded, Building Rooftop, concrete floor, antenna equipment, city skyline view in background, rooftop edge, moonlight + distant city lights, windy, isolated, dramatic, dangerous, dark blue sky,
+
+=== scene_03_final_battle ===
+male young adult, average build,
+short dark hair,
+wearing hooded cloak, large headphones,
+no accessories,
+determined eyes,
+, standing upright, confident posture, full body visible, heroic, determined, noble, cinematic, cinematic composition, film grain, anamorphic lens, 8k, professional photography, color graded, Building Rooftop, concrete floor, antenna equipment, city skyline view in background, rooftop edge, moonlight + distant city lights, windy, isolated, dramatic, dangerous, dark blue sky,
+
+=== scene_04_headphones ===
+Single headphone left on ground, smoke clearing, Building Rooftop, concrete floor, antenna equipment, city skyline view in background, rooftop edge, moonlight + distant city lights, windy, isolated, dramatic, dangerous, dark blue sky, orange city lights, silver moonlight tones, dramatic, background: Bangkok Night 20XX, futuristic tuk-tuks with LED strips, holographic Thai advertisements, flying vehicles, neon lights, holograms, LED strips, cyberpunk glow, futuristic, cyberpunk, high-tech meets t
+

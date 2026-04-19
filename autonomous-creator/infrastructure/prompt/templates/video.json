@@ -1,0 +1,119 @@
+{
+  "system_prompt": "You are an expert prompt engineer for AI video generation. Convert scene descriptions into motion-focused prompts for 3D anime style videos. Focus on smooth, natural movements that match Pixar-quality animation.",
+
+  "base_template": "{subject_action}, {camera_motion}, {environment_motion}, {timing}",
+
+  "motion_types": {
+    "character": {
+      "walking": "walking naturally, smooth gait, gentle bobbing motion",
+      "running": "running smoothly, dynamic movement, flowing hair and clothes",
+      "sitting": "sitting down gracefully, smooth transition, natural pose",
+      "talking": "speaking naturally, lip sync, expressive hand gestures",
+      "looking": "turning head smoothly, natural eye movement, curious expression",
+      "fighting": "dynamic combat movement, smooth action, powerful strikes",
+      "dancing": "graceful dancing, fluid movement, rhythmic motion"
+    },
+    "camera": {
+      "static": "static camera, still shot, stable frame",
+      "pan_left": "smooth camera pan left, cinematic movement",
+      "pan_right": "smooth camera pan right, cinematic movement",
+      "zoom_in": "smooth slow zoom in, dramatic focus",
+      "zoom_out": "smooth slow zoom out, revealing shot",
+      "tracking": "smooth tracking shot, following subject",
+      "dolly": "dolly shot, smooth forward motion",
+      "orbit": "orbit camera movement, rotating around subject"
+    },
+    "environment": {
+      "wind": "gentle wind blowing, hair and clothes moving softly",
+      "water": "water flowing smoothly, gentle waves",
+      "clouds": "clouds moving slowly, peaceful sky",
+      "leaves": "leaves rustling gently in wind",
+      "fire": "fire flickering, warm glow, dancing flames",
+      "particles": "floating particles, magical sparkles, dust motes"
+    }
+  },
+
+  "3d_anime_motion_guidelines": {
+    "principles": [
+      "Smooth easing: slow in, slow out for natural movement",
+      "Secondary motion: hair, clothes follow primary movement",
+      "Anticipation: slight wind-up before major actions",
+      "Follow through: continued motion after action stops",
+      "Overlap: different body parts move at different speeds"
+    ],
+    "avoid": [
+      "Sudden jerky movements",
+      "Mechanical robot-like motion",
+      "Floating without weight",
+      "Unnatural speed changes"
+    ]
+  },
+
+  "duration_guidelines": {
+    "short": {
+      "seconds": 3,
+      "description": "Single action, simple motion, one camera move"
+    },
+    "medium": {
+      "seconds": 5,
+      "description": "Multiple actions, moderate complexity, character interaction"
+    },
+    "long": {
+      "seconds": 10,
+      "description": "Complex sequence, multiple elements, scene transition"
+    }
+  },
+
+  "quality_modifiers": [
+    "smooth motion",
+    "natural movement",
+    "cinematic quality",
+    "consistent animation",
+    "3D anime quality",
+    "Pixar-style animation",
+    "fluid motion"
+  ],
+
+  "model_specific": {
+    "luma_kling": {
+      "prefix": "3D anime style,",
+      "suffix": "smooth animation, high quality, consistent motion",
+      "best_for": ["character animation", "facial expressions", "asian characters"]
+    },
+    "luma_ray": {
+      "prefix": "3D animation,",
+      "suffix": "cinematic quality, smooth motion, Pixar style",
+      "best_for": ["general scenes", "environment", "dramatic shots"]
+    },
+    "luma_veo": {
+      "prefix": "high quality 3D,",
+      "suffix": "professional animation, smooth movement",
+      "best_for": ["high detail scenes", "complex motion"]
+    },
+    "runway_gen3": {
+      "prefix": "3D anime render,",
+      "suffix": "cinematic motion, consistent quality",
+      "best_for": ["artistic scenes", "stylized content"]
+    }
+  },
+
+  "negative_motion": [
+    "static image",
+    "frozen",
+    "slideshow",
+    "jump cut",
+    "glitchy movement",
+    "flickering",
+    "distortion",
+    "unnatural motion",
+    "robotic movement"
+  ],
+
+  "style_enhancements": {
+    "anime_3d": {
+      "motion_quality": "smooth 3D animation, Pixar-quality movement",
+      "character_motion": "expressive body language, natural gestures",
+      "camera_work": "cinematic camera moves, smooth transitions"
+    }
+  }
+}

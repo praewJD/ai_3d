@@ -1,0 +1,27 @@
+{
+  "id": "police_station",
+  "name": "Police Station Interior",
+  "description": "Police headquarters command center",
+  "elements": [
+    "multiple computer monitors",
+    "warning lights",
+    "control panels",
+    "officers in uniform",
+    "desks with papers",
+    "police badges",
+    "telephones",
+    "status screens",
+    "emergency lights"
+  ],
+  "lighting": "fluorescent lights, red warning lights, screen glow",
+  "atmosphere": "tense, emergency, professional, urgent",
+  "colors": ["dark blue", "red warning lights", "white fluorescent", "screen green"],
+  "camera_angles": {
+    "wide": "wide shot of command center",
+    "over_shoulder": "over shoulder at screens",
+    "close_up": "close up of warning screen",
+    "group": "group shot of officers"
+  },
+  "style_modifiers": ["dramatic", "tension", "professional"],
+  "negative": "outdoor, street, home, casual"
+}

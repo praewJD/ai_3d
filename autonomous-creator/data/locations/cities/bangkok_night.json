@@ -1,0 +1,29 @@
+{
+  "id": "bangkok_night",
+  "name": "Bangkok Night",
+  "name_local": "กรุงเทพฯ ยามค่ำคืน",
+  "description": "Bangkok cityscape at night, neon-lit streets",
+  "elements": [
+    "tuk-tuks on the road",
+    "Thai script neon signs",
+    "pink and green taxis",
+    "street food vendors",
+    "BTS skytrain overhead",
+    "wat temple silhouettes in background",
+    "motorcycles",
+    "power lines",
+    "palm trees"
+  ],
+  "lighting": "neon lights, street lamps, car headlights, shop signs",
+  "atmosphere": "humid, vibrant, chaotic energy, tropical",
+  "colors": ["neon pink", "green", "orange", "warm yellow", "cyan"],
+  "weather": ["clear", "light rain", "humid"],
+  "camera_angles": {
+    "wide": "wide shot of busy intersection",
+    "street_level": "street level view with pedestrians",
+    "high_angle": "rooftop view of city",
+    "low_angle": "looking up at neon signs"
+  },
+  "style_modifiers": ["cinematic", "neon noir", "cyberpunk light"],
+  "negative": "chinese, hong kong, japanese, korean, chinese characters, red lanterns, chinese architecture, dragons, great wall"
+}

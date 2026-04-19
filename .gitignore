@@ -1,0 +1,75 @@
+# AI Models - Large files, exclude from git
+*.pth
+*.pt
+*.bin
+*.onnx
+*.pkl
+
+# Model directories
+*/models/
+*/checkpoints/
+*/weights/
+*/pretrained/
+
+# HuggingFace cache
+*/hf_cache/
+*/huggingface/
+
+# Weights directory
+weights/
+
+# FramePack model files
+# Embedded git repositories (exclude entirely)
+FramePack/
+autonomous-creator/fish-speech-repo/
+
+# Fish-speech model files
+autonomous-creator/fish-speech-model/*.pth
+autonomous-creator/fish-speech-model/**/*.pth
+
+# S1 model files
+autonomous-creator/s1-mini/*.pth
+autonomous-creator/s1-mini/**/*.pth
+
+# Video/Audio generated outputs
+*.mp4
+*.wav
+*.mp3
+*.avi
+*.mov
+
+# Image outputs
+*.png
+*.jpg
+!assets/**/*.png
+!assets/**/*.jpg
+
+# Temp files
+*.tmp
+*.temp
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual envs
+venv/
+env/
+.env
+
+# Logs
+*.log
+
+# Large data files
+*.zip
+*.tar.gz
+*.7z

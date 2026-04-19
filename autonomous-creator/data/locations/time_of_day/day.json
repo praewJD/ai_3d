@@ -1,0 +1,17 @@
+{
+  "id": "day",
+  "name": "Day",
+  "description": "Day time lighting and atmosphere",
+  "elements": [
+    "blue sky",
+    "sunlight",
+    "clouds",
+    "bright colors",
+    "shadows from sun"
+  ],
+  "lighting": "sunlight, natural daylight",
+  "atmosphere": "bright, active, energetic",
+  "colors": ["blue sky", "white clouds", "warm sunlight"],
+  "style_modifiers": ["bright", "natural", "vibrant"],
+  "negative": "night, dark, moon, artificial lights"
+}

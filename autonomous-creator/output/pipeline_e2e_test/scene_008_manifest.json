@@ -1,0 +1,23 @@
+{
+    "scene_id": "scene_9",
+    "scene_number": 8,
+    "purpose": "resolution",
+    "action": "man in beige trench coat standing in autumn rain on empty park bench, wet fallen leaves scattered on ground, figure of woman in cream sweater visible in far distance walking away, cold blue-grey tones",
+    "characters": [
+        "char_1"
+    ],
+    "location": "rainy autumn park, same bench as earlier",
+    "camera": "wide_shot",
+    "mood": "sad",
+    "emotion": "sadness",
+    "duration": 4.0,
+    "dialogue": "",
+    "narration": "\"진실을 알면... 누구를 원망해야 할까?\"",
+    "prompt_used": "MG_ip, man beige trench coat standing autumn rain empty park bench, wet fallen leaves scattered ground, figure of woman cream sweater visible far distance walking away,, beige trench coat, white turtleneck, dark slacks, short neat black hair, Disney 3D style, Pixar quality, soft lighting, wide shot, full scene, melancholic, soft shadows, muted colors, cinematic, ultra detailed, 4k, masterpiece, no text, no letters, no watermark",
+    "negative_prompt": "butterflies, insects, birds, flying objects, extra objects, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_008_scene_9.png",
+    "seed": 12345,
+    "steps": 25,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 489.3
+}

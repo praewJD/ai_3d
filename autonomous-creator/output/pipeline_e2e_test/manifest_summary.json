@@ -1,0 +1,85 @@
+{
+    "title": "니가 훔친 그 사람",
+    "total_scenes": 10,
+    "total_images": 10,
+    "total_time_seconds": 4230.1,
+    "characters": [
+        {
+            "id": "char_1",
+            "name": "서준",
+            "appearance": "beige trench coat, white turtleneck, dark slacks, short neat black hair"
+        },
+        {
+            "id": "char_2",
+            "name": "하은",
+            "appearance": "oversized cream knit sweater, plaid skirt, long wavy brown hair, gold earrings"
+        },
+        {
+            "id": "char_3",
+            "name": "민호",
+            "appearance": "black leather jacket, gray v-neck tee, silver chain necklace, swept-back dark hair"
+        }
+    ],
+    "scenes": [
+        {
+            "scene_id": "scene_1",
+            "image": "scene_000_scene_1.png",
+            "manifest": "scene_000_manifest.json",
+            "status": "success"
+        },
+        {
+            "scene_id": "scene_2",
+            "image": "scene_001_scene_2.png",
+            "manifest": "scene_001_manifest.json",
+            "status": "success"
+        },
+        {
+            "scene_id": "scene_3",
+            "image": "scene_002_scene_3.png",
+            "manifest": "scene_002_manifest.json",
+            "status": "success"
+        },
+        {
+            "scene_id": "scene_4",
+            "image": "scene_003_scene_4.png",
+            "manifest": "scene_003_manifest.json",
+            "status": "success"
+        },
+        {
+            "scene_id": "scene_5",
+            "image": "scene_004_scene_5.png",
+            "manifest": "scene_004_manifest.json",
+            "status": "success"
+        },
+        {
+            "scene_id": "scene_6",
+            "image": "scene_005_scene_6.png",
+            "manifest": "scene_005_manifest.json",
+            "status": "success"
+        },
+        {
+            "scene_id": "scene_7",
+            "image": "scene_006_scene_7.png",
+            "manifest": "scene_006_manifest.json",
+            "status": "success"
+        },
+        {
+            "scene_id": "scene_8",
+            "image": "scene_007_scene_8.png",
+            "manifest": "scene_007_manifest.json",
+            "status": "success"
+        },
+        {
+            "scene_id": "scene_9",
+            "image": "scene_008_scene_9.png",
+            "manifest": "scene_008_manifest.json",
+            "status": "success"
+        },
+        {
+            "scene_id": "scene_10",
+            "image": "scene_009_scene_10.png",
+            "manifest": "scene_009_manifest.json",
+            "status": "success"
+        }
+    ]
+}

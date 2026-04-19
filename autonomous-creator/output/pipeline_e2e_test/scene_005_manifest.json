@@ -1,0 +1,24 @@
+{
+    "scene_id": "scene_6",
+    "scene_number": 5,
+    "purpose": "climax",
+    "action": "man in beige trench coat confronting woman in cream sweater in apartment living room, he holds phone out toward her with trembling hand, she steps back with hand raised defensively, warm evening light through window casting long shadows",
+    "characters": [
+        "char_1",
+        "char_2"
+    ],
+    "location": "modern apartment living room at dusk",
+    "camera": "medium_shot",
+    "mood": "tense",
+    "emotion": "anger",
+    "duration": 4.0,
+    "dialogue": "서준: 이게 뭐야?! 하은: 아니야! 그건 그냥 오해야!",
+    "narration": "",
+    "prompt_used": "[Regional Cross-Attention] 2 chars: man in beige trench coat confronting woman in cream sweater in apartment living room, he holds phone out toward her with trembling hand, she steps back with hand raised defensively, warm evening light through window casting long shadows",
+    "negative_prompt": "butterflies, insects, birds, flying objects, extra objects, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_005_scene_6.png",
+    "seed": 12345,
+    "steps": 25,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 385.0
+}

@@ -1,0 +1,23 @@
+{
+    "scene_id": "scene_4",
+    "scene_number": 3,
+    "purpose": "climax",
+    "action": "man in beige trench coat staring at phone with pale face, cold blue light washing over his features, lips slightly parted, grip tightening on device, shadows across his face",
+    "characters": [
+        "char_1"
+    ],
+    "location": "dimly lit hallway at night",
+    "camera": "close-up",
+    "mood": "dark",
+    "emotion": "fear",
+    "duration": 4.0,
+    "dialogue": "",
+    "narration": "\"수진 언니한테서 온 SNS 스토리... 하은이랑 민호 형이 단둘이?\"",
+    "prompt_used": "MG_ip, man beige trench coat staring phone with pale face, cold blue light washing over his features, lips slightly parted, grip tightening device, shadows across his, beige trench coat, white turtleneck, dark slacks, short neat black hair, Disney 3D style, Pixar quality, soft lighting, close-up shot, detailed face, scary, dark, unsettling, cinematic, ultra detailed, 4k, masterpiece, no text, no letters, no watermark",
+    "negative_prompt": "butterflies, insects, birds, flying objects, extra objects, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_003_scene_4.png",
+    "seed": 12345,
+    "steps": 25,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 309.9
+}

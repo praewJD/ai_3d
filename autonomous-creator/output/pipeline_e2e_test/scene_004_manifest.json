@@ -1,0 +1,24 @@
+{
+    "scene_id": "scene_5",
+    "scene_number": 4,
+    "purpose": "climax",
+    "action": "woman in cream sweater and man in leather jacket sitting close together at dim bar counter, her hand on his shoulder, intimate atmosphere, warm amber lighting, other man visible in background watching from distance with hurt expression",
+    "characters": [
+        "char_2",
+        "char_3"
+    ],
+    "location": "dim cocktail bar with warm lighting",
+    "camera": "over_shoulder",
+    "mood": "mysterious",
+    "emotion": "disgust",
+    "duration": 3.0,
+    "dialogue": "민호: 수진이 몰라도 돼. 하은: 알아... 근데 난 네가 더 좋아.",
+    "narration": "",
+    "prompt_used": "[Regional Cross-Attention] 2 chars: woman in cream sweater and man in leather jacket sitting close together at dim bar counter, her hand on his shoulder, intimate atmosphere, warm amber lighting, other man visible in background watching from distance with hurt expression",
+    "negative_prompt": "butterflies, insects, birds, flying objects, extra objects, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_004_scene_5.png",
+    "seed": 12345,
+    "steps": 25,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 395.3
+}

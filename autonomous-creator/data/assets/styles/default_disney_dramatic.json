@@ -1,0 +1,32 @@
+{
+  "id": "default_disney_dramatic",
+  "name": "Disney 3D Dramatic",
+  "description": "드라마틱한 3D 애니메이션 - 시네마틱 조명",
+  "base_prompt": "3D anime style, dramatic cinematic lighting, volumetric light, epic atmosphere, Pixar quality, smooth shading",
+  "negative_prompt": "realistic photo, flat lighting, boring, low quality, rough",
+  "style_type": "disney_3d",
+  "seed": -1,
+  "cfg_scale": 8.0,
+  "steps": 35,
+  "sampler": "dpmpp_2m",
+  "ip_adapter_ref": null,
+  "ip_adapter_scale": 0.8,
+  "lora_weights": null,
+  "lora_scale": 1.0,
+  "lighting_type": "dramatic",
+  "color_palette": "vibrant_warm",
+  "rendering_type": "cinematic",
+  "extra_params": {},
+  "is_default": false,
+  "created_at": "2026-04-05T16:23:38.042248",
+  "updated_at": "2026-04-05T16:23:38.055248",
+  "tags": [
+    "3d",
+    "disney",
+    "dramatic",
+    "cinematic"
+  ],
+  "metadata": {},
+  "usage_count": 0,
+  "last_used_at": null
+}

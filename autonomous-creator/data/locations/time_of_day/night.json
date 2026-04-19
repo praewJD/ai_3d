@@ -1,0 +1,18 @@
+{
+  "id": "night",
+  "name": "Night",
+  "description": "Night time lighting and atmosphere",
+  "elements": [
+    "dark sky",
+    "moon visible",
+    "stars",
+    "artificial lights dominant",
+    "shadows",
+    "night atmosphere"
+  ],
+  "lighting": "moonlight, artificial lights, neon, street lamps",
+  "atmosphere": "mysterious, dramatic, calm or dangerous",
+  "colors": ["deep blue", "black", "artificial light colors"],
+  "style_modifiers": ["noir", "cinematic", "dramatic"],
+  "negative": "daylight, sun, blue sky, bright"
+}

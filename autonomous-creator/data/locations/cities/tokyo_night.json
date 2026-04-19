@@ -1,0 +1,30 @@
+{
+  "id": "tokyo_night",
+  "name": "Tokyo Night",
+  "name_local": "東京の夜",
+  "description": "Tokyo cityscape at night, Japanese cyberpunk aesthetic",
+  "elements": [
+    "Japanese kanji neon signs",
+    "Shibuya crossing",
+    "vending machines on streets",
+    "Japanese taxis (black, green)",
+    "izakaya lanterns",
+    "train stations with lights",
+    "salarymen in suits",
+    "tall narrow buildings",
+    "illuminated billboards",
+    "rain puddles"
+  ],
+  "lighting": "neon signs, lanterns, LED billboards, train lights",
+  "atmosphere": "cyberpunk, organized chaos, futuristic, neon-soaked",
+  "colors": ["cyan", "magenta", "white", "red", "warm yellow"],
+  "weather": ["clear", "rain", "humid"],
+  "camera_angles": {
+    "wide": "wide shot of Shibuya crossing",
+    "street_level": "street level in alley",
+    "high_angle": "view from tower",
+    "low_angle": "looking up at neon towers"
+  },
+  "style_modifiers": ["cyberpunk", "neon noir", "anime background style"],
+  "negative": "chinese, korean, thai, western architecture"
+}

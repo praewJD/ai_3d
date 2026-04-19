@@ -1,0 +1,32 @@
+{
+  "id": "default_disney_3d",
+  "name": "Disney 3D Default",
+  "description": "3D 애니메이션 기본 스타일 - Pixar 퀄리티",
+  "base_prompt": "3D anime style, Pixar quality, smooth cel shading, beautiful lighting, clean renders, Disney animation quality",
+  "negative_prompt": "realistic photo, live action, western cartoon, rough lines, low poly, ugly 3d, bad shading, plastic look, blurry, low quality",
+  "style_type": "disney_3d",
+  "seed": -1,
+  "cfg_scale": 7.5,
+  "steps": 30,
+  "sampler": "dpmpp_2m",
+  "ip_adapter_ref": null,
+  "ip_adapter_scale": 0.8,
+  "lora_weights": null,
+  "lora_scale": 1.0,
+  "lighting_type": "soft",
+  "color_palette": "vibrant_warm",
+  "rendering_type": "cel_shaded",
+  "extra_params": {},
+  "is_default": true,
+  "created_at": "2026-04-05T16:23:38.042248",
+  "updated_at": "2026-04-05T16:23:38.052249",
+  "tags": [
+    "3d",
+    "disney",
+    "animation",
+    "default"
+  ],
+  "metadata": {},
+  "usage_count": 0,
+  "last_used_at": null
+}

@@ -1,0 +1,24 @@
+{
+    "scene_id": "scene_7",
+    "scene_number": 6,
+    "purpose": "climax",
+    "action": "woman in cream sweater crouched on floor crying, man in leather jacket standing behind her with arms crossed and cold smirk, dramatic shadows splitting his face, tension in body language",
+    "characters": [
+        "char_2",
+        "char_3"
+    ],
+    "location": "empty parking garage with harsh fluorescent lighting",
+    "camera": "close-up",
+    "mood": "dark",
+    "emotion": "sadness",
+    "duration": 3.0,
+    "dialogue": "민호: 네가 먼저 유혹했잖아. 하은: 그건 네가 먼저였어!",
+    "narration": "",
+    "prompt_used": "MG_ip, woman cream sweater crouched floor crying, man leather jacket standing behind her with arms crossed and cold smirk, dramatic shadows splitting his face, tension body, oversized cream knit sweater, plaid skirt, long wavy brown hair, gold earrings, black leather jacket, gray v-neck tee, silver chain necklace, swept-back dark hair, Disney 3D style, Pixar quality, soft lighting, no text, no letters, no watermark",
+    "negative_prompt": "butterflies, animals, creatures, extra objects, insects, birds, flying objects, multiple characters, crowd, background clutter, ugly, blurry, low quality, distorted, watermark",
+    "image_path": "scene_006_scene_7.png",
+    "seed": 12345,
+    "steps": 20,
+    "cfg_scale": 7.5,
+    "generation_time_seconds": 486.2
+}
