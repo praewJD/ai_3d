@@ -4,6 +4,7 @@
 *.bin
 *.onnx
 *.pkl
+*.safetensors
 
 # Model directories
 */models/
